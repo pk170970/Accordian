@@ -1,0 +1,72 @@
+.accordian_body {
+  max-width: 600px;
+  margin: 0em auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2.8em 0em;
+  gap: 1em;
+}
+
+.faq {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.faq_visible{
+  display: flex;
+  padding: 0.7em 1.4em;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4caf50;
+  width: 100%;
+  border-radius: 8px;
+  /* border-bottom: 2px solid black; */
+  /* margin-bottom: 0.6em; */
+}
+
+.faq_hide{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(214, 204, 204);
+  padding: 0.5em 1.2em 1em 1.5em;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.hidden1, .hidden2,.hidden3{
+  display: none;
+}
+
+.faq h3 {
+  font-size: 1.2em;
+  font-weight: 900;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 0em;
+  padding: 0em;
+}
+
+.faq p {
+  font-size: 1em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 1em 0em 0em;
+  padding: 0em;
+}
+
+.faq .show_btn {
+  width: 24px;
+  height: 24px;
+  background-color: black;
+  outline: none;
+  box-shadow: none;
+  border: none;
+  color: white;
+  margin: 0em;
+  border-radius: 120px;
+  cursor: pointer;
+}
+
