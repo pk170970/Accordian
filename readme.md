@@ -23,7 +23,7 @@ I got this assignment from iNeuron Bootcamp.
 
 ## Links
 
-[Link](javascriptmyaccordion.netlify.app)
+[Link](https://javascriptmyaccordian.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
